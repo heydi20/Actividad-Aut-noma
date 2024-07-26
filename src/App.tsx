@@ -1,9 +1,9 @@
 
-import { Acumulador } from './ejercicios/Acumulador';
-import { Alumno } from './ejercicios/Alumno';
-import { AreaCuadrado } from './ejercicios/AreaCuadrado';
-import DevolverNuevoArreglo from './ejercicios/DevolverNuevoArreglo';
-import FuncionArreglo from './ejercicios/FuncionArreglo';
+import { Acumulador } from './exercises/Acumulador';
+import { Alumno } from './exercises/Alumno';
+import { AreaCuadrado } from './exercises/AreaCuadrado';
+import DevolverNuevoArreglo from './exercises/DevolverNuevoArreglo';
+import FuncionArreglo from './exercises/FuncionArreglo';
 
 const App = () => {
   return (
